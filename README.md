@@ -25,7 +25,7 @@
 
 ## Information
 
-![Information | 100x100](../Documentation/Images/Information.PNG)
+![Information | 100x100](Information.png)
 
 ## What are we doing today?
 Best Practices for Prompt Engineering
@@ -151,7 +151,7 @@ All paths converge on 36, indicating high confidence in the answer.
 
 ---
 
-![Information | 100x100](../Documentation/Images/SeatBelt.PNG)
+![Information | 100x100](SeatBelt.png)
 
 ---
 
